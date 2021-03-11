@@ -34,7 +34,7 @@ from sklearn import preprocessing
 from torch.autograd import Variable
 import torch.autograd as autograd
 import pandas as pd
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # ## Getting the data
